@@ -1,0 +1,9 @@
+- 👋 Olá, me chamo Christian Moraes
+- 👀 Gosto muito de tecnologia, atualmente estudo html, css, javascrip e PHP.
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Meu portifolio ainda é pequeno, mas cada aplicação é uma aprendizagem nova, estou gostando de tentar fazer tudo sozinho, me testar
+--->
